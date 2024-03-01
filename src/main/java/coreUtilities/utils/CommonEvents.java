@@ -3,11 +3,7 @@ package coreUtilities.utils;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-/***
- * @author Sudhansu Sekhar Panda
- * This class is responsible to perform all generic or commonly used operations
- *
- */
+
 public class CommonEvents 
 {
 	public WebDriver driver;
